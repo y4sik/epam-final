@@ -1,0 +1,15 @@
+body,html {
+  height: 100%;
+}
+.card-alignment{
+  float: right;
+  width: 16rem;
+}
+.category-aligment{
+  float: left;
+  width: 16rem;
+}
+.picture-aligment{
+  height: 13rem;
+  width:13rem;
+}
